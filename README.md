@@ -57,30 +57,40 @@ Add a .gitignore file and add node_modules to ensure the third-party packages ar
 ## Usage
 
 #### run node index.js
+![Screenshot 2023-07-29 at 6 36 30 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/674d0861-910c-4d13-b8c4-1d0f3eabdd1c)
 
 #### Inquirer will run. The first question is "Enter text for the logo. (Must not be more than 3 characters)"
+![Screenshot 2023-07-29 at 6 36 46 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/a2c0cca4-ceb3-4ae9-a011-5ff6af7af8dc)
 
 #### If the user inputs more than 3 characters, a message will be consoled informing the user "please check your input. Max character is 3" amd the prompts will restart
+![Screenshot 2023-07-29 at 7 11 36 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/37d64899-6491-45f8-8e26-4de8151a3166)
 
 #### Second question, "Enter text color". The color input takes color keywords or a hexadecimal number
+![Screenshot 2023-07-29 at 6 58 29 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/452f0e2c-ddaa-4614-a432-0e3fc59ab6c7)
 
 #### Third question, "Select a shape" options are Circle, Triangle and Square
+![Screenshot 2023-07-29 at 7 09 54 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/c66fa8c8-919b-479b-b1a7-ca4e8eff6197)
 
 #### Fourth question, "Enter shape color". The color input takes color keywords or a hexadecimal number
+![Screenshot 2023-07-29 at 6 58 48 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/efc28c0c-f90c-4d08-9fbc-b27f70aae92f)
 
 #### Saves logo as logo.svg
 
 #### Message appears "Generated logo.svg"
+![Screenshot 2023-07-29 at 6 59 48 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/3483b81c-4ff6-4ab1-834b-497b08c13271)
 
 ### Testing
 
 #### Run test
 
 Run tests by running npm run test
+![Screenshot 2023-07-29 at 7 13 04 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/50046254-e0be-44f6-b2c3-b3d30ae66072)
 
 Test check each shape class (circle, triangle and square) to ensure variables are defined
 
 Test check each shape class (circle, triangle and square) to ensure an error will be thrown if the user does not input a response for all prompts
+
+![Screenshot 2023-07-29 at 7 13 55 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/6d534883-6867-4a05-98b5-b494a98341d1)
 
 ## License
 
