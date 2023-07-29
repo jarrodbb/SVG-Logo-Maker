@@ -74,10 +74,21 @@ Add a .gitignore file and add node_modules to ensure the third-party packages ar
 #### Fourth question, "Enter shape color". The color input takes color keywords or a hexadecimal number
 ![Screenshot 2023-07-29 at 6 58 48 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/efc28c0c-f90c-4d08-9fbc-b27f70aae92f)
 
-#### Saves logo as logo.svg
-
 #### Message appears "Generated logo.svg"
 ![Screenshot 2023-07-29 at 6 59 48 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/3483b81c-4ff6-4ab1-834b-497b08c13271)
+
+#### Saves logo as logo.svg
+![Screenshot 2023-07-29 at 7 01 29 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/5a6cd54b-05b4-4806-b8b5-34a2f87dc050)
+![Screenshot 2023-07-29 at 7 01 40 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/6d1caecb-0065-4031-90c2-32210cd75f4a)
+![Screenshot 2023-07-29 at 7 01 46 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/573077f4-530f-4abf-aeb0-4e830319403d)
+
+#### More logo examples
+![Screenshot 2023-07-29 at 7 03 32 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/3ed3f436-52f1-4201-9841-9b3304ad4d5b)
+![Screenshot 2023-07-29 at 7 03 40 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/212f5b9e-7e87-47e8-af4d-aac3e6b5ec80)
+![Screenshot 2023-07-29 at 7 03 45 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/beb67cb0-181a-4e47-9e1e-63418d48a620)
+
+![Screenshot 2023-07-29 at 7 05 16 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/f8ec1bba-e36b-4e28-88ac-c06eb03a5029)
+![Screenshot 2023-07-29 at 7 05 20 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/daa85671-13bd-496a-bf4e-4502f1955395)
 
 ### Testing
 
