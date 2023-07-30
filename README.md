@@ -57,6 +57,10 @@ Add a .gitignore file and add node_modules to ensure the third-party packages ar
 #### Video Demo
 [google drive link](https://drive.google.com/file/d/1zxwn26wf5nJU2-Xw4QB4IsZfk9dAvjKx/view)
 [YouTube](https://youtu.be/fXBvQUY57lw)
+[Github link .mp4](https://github.com/jarrodbb/SVG-Logo-Maker/blob/main/assets/video/Untitled_%20Jul%2030%2C%202023%2011_02%20AM.mp4)
+
+#### Logo Examples
+[logos](https://github.com/jarrodbb/SVG-Logo-Maker/tree/main/examples)
 
 ## Usage
 
