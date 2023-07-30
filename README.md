@@ -46,8 +46,11 @@ Add a .gitignore file and add node_modules to ensure the third-party packages ar
 #### JavaScript
 
 [index.js](https://github.com/jarrodbb/SVG-Logo-Maker/blob/main/index.js)
+
 [cli.js](https://github.com/jarrodbb/SVG-Logo-Maker/blob/main/lib/cli.js)
+
 [shapes.js](https://github.com/jarrodbb/SVG-Logo-Maker/blob/main/lib/shapes.js)
+
 [package.json](https://github.com/jarrodbb/SVG-Logo-Maker/blob/main/package.json)
 
 #### Test file
@@ -56,7 +59,9 @@ Add a .gitignore file and add node_modules to ensure the third-party packages ar
 
 #### Video Demo
 [google drive link](https://drive.google.com/file/d/1zxwn26wf5nJU2-Xw4QB4IsZfk9dAvjKx/view)
+
 [YouTube](https://youtu.be/fXBvQUY57lw)
+
 [Github link .mp4](https://github.com/jarrodbb/SVG-Logo-Maker/blob/main/assets/video/Untitled_%20Jul%2030%2C%202023%2011_02%20AM.mp4)
 
 #### Logo Examples
@@ -103,6 +108,7 @@ Add a .gitignore file and add node_modules to ensure the third-party packages ar
 #### Run test
 
 Run tests by running npm run test
+
 ![Screenshot 2023-07-29 at 7 13 04 pm](https://github.com/jarrodbb/SVG-Logo-Maker/assets/132813348/50046254-e0be-44f6-b2c3-b3d30ae66072)
 
 Test check each shape class (circle, triangle and square) to ensure variables are defined
