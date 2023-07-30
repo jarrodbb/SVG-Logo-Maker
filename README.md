@@ -54,6 +54,10 @@ Add a .gitignore file and add node_modules to ensure the third-party packages ar
 
 [shape.test.js](https://github.com/jarrodbb/SVG-Logo-Maker/blob/main/lib/shape.test.js)
 
+#### Video Demo
+[google drive link](https://drive.google.com/file/d/1zxwn26wf5nJU2-Xw4QB4IsZfk9dAvjKx/view)
+[YouTube](https://youtu.be/fXBvQUY57lw)
+
 ## Usage
 
 #### run node index.js
